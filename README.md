@@ -73,7 +73,3 @@ Sinta-se à vontade para enviar *pull requests* com novas funcionalidades!
 
 ---
 *Desenvolvido para fins de estudo e gerenciamento de dados de drogaria.*
-
-***
-
-Gostaria de adicionar alguma seção específica ao README, como informações de contato ou licença?
